@@ -1,4 +1,3 @@
-
 package chatting_application;
 
 import java.awt.*;
