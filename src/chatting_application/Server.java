@@ -12,7 +12,7 @@ import java.util.*;
 import java.text.*;
 
 public class Server  implements ActionListener{
-    
+
     JTextField text;
     JPanel a1;
    static Box Vartical= Box.createVerticalBox();
